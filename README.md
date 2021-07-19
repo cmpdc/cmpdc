@@ -1,7 +1,6 @@
-Hello there! The name is Chris but you can call me Uri.
-<br /><br />
+<h3>Hello there! The name is Chris but you can call me Uri.</h3>
 
-These are the languages that I know thus far:<br />
+These are the languages that I know thus far:<br /><br />
 <a href="#">
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -11,7 +10,7 @@ These are the languages that I know thus far:<br />
 </a>
 <br />
 
-And these are the framework/libraries that I have experience in:<br />
+And these are the framework/libraries that I have experience in:<br /><br />
 <a href="#">
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="CofeeScript" src="https://img.shields.io/badge/cofeescript-%233e2723.svg?style=for-the-badge&logo=coffeescript&logoColor=%23white"/>
